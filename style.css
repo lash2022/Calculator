@@ -6,7 +6,7 @@
   }
   body {
     height: 100vh;
-    background: linear-gradient(to bottom, #f9544c 50%, #090c31 50%);
+    background: linear-gradient(to bottom, #1635cf 10% , #0e1141 );
   }
   .calculator {
     width: 400px;
@@ -54,7 +54,7 @@
   }
   input[type="button"]#equal {
     grid-row: span 2;
-    background-color: #f9544c;
+    background-color: #1635cf;
   }
   input[type="button"][value="0"] {
     grid-column: span 2;
